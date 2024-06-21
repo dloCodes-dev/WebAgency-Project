@@ -168,8 +168,7 @@ h2 {
 
 @media (min-width: 1024px) {
 	body {
-		width: 90%;
-		margin: auto;
+		margin: 80px auto;
 	}
 
 	section {
